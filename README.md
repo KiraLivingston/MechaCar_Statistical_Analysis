@@ -25,4 +25,17 @@ Totally, with all three lots' data being used, I would not recommend using any c
 
 Continuing the thread from the previous question, it's clear that Lot 3's manufacturing process is flawed in some critical way, preventing their coils being used in the MechaCar production.
 
-### T-Tests on Suspension Coils
+## Deliverable 4
+
+### Metric to test
+To narrow down our test, we should evaluate MechaCar's miles per gallon, in comparison to various competitors' vehicles.
+
+### Null and Alternate Hypothesis
+Null Hypothesis: MechaCar prototypes' average MPG is similar to competitor's vehicles in the same vehicle class 
+Alternate Hypothesis: MechaCar prototypes' average MPG is statistically above or below that of competitor vehicles.
+
+### Statistical Test Used
+The best statistical test for this would be two-sample t-tests.
+
+### What data is needed
+We would need to gather cubic space data from the carrying compartments of all MechaCar prototypes, as well as from all major competitor vehicles.
