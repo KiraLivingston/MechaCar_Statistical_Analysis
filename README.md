@@ -38,4 +38,4 @@ Alternate Hypothesis: MechaCar prototypes' average MPG is statistically above or
 The best statistical test for this would be two-sample t-tests.
 
 ### What data is needed
-We would need to gather cubic space data from the carrying compartments of all MechaCar prototypes, as well as from all major competitor vehicles.
+We would need to gather MPG data from of all MechaCar prototypes, as well as from all major competitor vehicles.
